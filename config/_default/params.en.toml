@@ -1,0 +1,24 @@
+Description = "Weclome to Elkan's blog site that who is best on program develop, pre-sales and big data."
+Keywords =  "Blog, Software, Big Data, Product, Architecture, Java, Kylin"
+Subtitle = "Don't stop running forward!"
+AuthorImg = "/img/avatar.png"
+AuthorName = "Elkan.Li"
+Introduce = "Never forget your dreams！"
+DateFormat = "2006/01/02"
+YearFormat = "2006Y"
+MonthFormat = "01/02"
+
+ArticleDeclContent = "This blog post article is under the <a href='https://creativecommons.org/licenses/by-nc-sa/3.0/' target='_blank' style='text-decoration: underline;'>CC BY-NC-SA 3.0</a> license,Please indicate the source!"
+
+[[Socials]]
+  Name = "GitHub"
+  Icon = "github"
+  URL = "https://github.com/abstractmj"
+
+[[Links]]
+  Name = "Bk-bcs"
+  Permalink = "https://github.com/Tencent/bk-bcs"
+
+[[Links]]
+  Name = "blueking"
+  Permalink = "https://bk.tencent.com/"
