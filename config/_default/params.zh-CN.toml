@@ -1,0 +1,24 @@
+Description = "你好"
+Keywords =  "博客, 程序员, 云原生, 思考, 读书, 笔记, 技术, 分享"
+Subtitle = "保持好奇心"
+AuthorImg = "/img/avatar.jpg"
+AuthorName = "汉森霍斯曼"
+Introduce = "霍斯曼家族的冬月降生汉森 Go语言拷贝技术深入研究者 云原生吹水小王子 零食粉碎机 地狱恶犬帅之父"
+DateFormat = "2022-07-16"
+YearFormat = "2022"
+MonthFormat = "07-16"
+
+ArticleDeclContent = "本博客文章除特别声明外，均采用 <a href='https://creativecommons.org/licenses/by-nc-sa/3.0/' target='_blank' style='text-decoration: underline;'>CC BY-NC-SA 3.0</a>许可协议，转载请注明出处！"
+
+[[Socials]]
+  Name = "GitHub"
+  Icon = "github"
+  URL = "https://github.com/abstractmj"
+
+[[Links]]
+  Name = "Bk-bcs"
+  Permalink = "https://github.com/Tencent/bk-bcs"
+
+[[Links]]
+  Name = "blueking"
+  Permalink = "https://bk.tencent.com/"
